@@ -1,0 +1,26 @@
+PODS:
+  - ZegoExpressEngine (3.0.0):
+    - ZegoExpressEngine/Video (= 3.0.0)
+  - ZegoExpressEngine/Video (3.0.0)
+  - ZegoUIKit (1.4.1):
+    - ZegoExpressEngine
+  - ZegoUIKitPrebuiltLiveStreaming (1.0.3):
+    - ZegoUIKit
+
+DEPENDENCIES:
+  - ZegoUIKitPrebuiltLiveStreaming
+
+SPEC REPOS:
+  trunk:
+    - ZegoExpressEngine
+    - ZegoUIKit
+    - ZegoUIKitPrebuiltLiveStreaming
+
+SPEC CHECKSUMS:
+  ZegoExpressEngine: 9997706e3a599ae2c8e95390c4fd001ace34fd52
+  ZegoUIKit: 07114571ed506efd81db48aba3d48f42b8d61e91
+  ZegoUIKitPrebuiltLiveStreaming: 4e7e30155b02b59a4bb8b27d9f321618a88692ef
+
+PODFILE CHECKSUM: 08375a1b10470920c28a59200137e065ed46f144
+
+COCOAPODS: 1.11.3
